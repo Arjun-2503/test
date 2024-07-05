@@ -1,0 +1,41 @@
+.main{
+    width: 1742px;
+    height: 650px;
+    background-image: linear-gradient(to bottom right, skyblue,lightgreen,#811e8a);
+    background-size: cover;
+    margin-top: 0px;
+    padding: 120px 420px;
+}
+.one{
+    width: 300px;
+    height: 500px;
+    background-color: white;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: 10px;
+}
+.one h2{
+    margin-bottom: 0%;
+}
+.one input{
+    width: 270px;
+    height: 40px;
+    margin-top: 0%;
+    margin-left: 10px;
+    border: solid wheat;
+}
+.one button{
+    width: 270px;
+    height: 40px;
+    margin-top: 20px;
+    margin-left: 10px;
+    border-radius: 20px;
+    background-image: linear-gradient(skyblue,#811e8a);
+    background-image: linear-gradient(bottom,top);
+}
+a{
+ text-decoration: none;
+ color: rgb(114, 111, 111); 
+ float: right; 
+ padding-right: 10px; 
+}
+

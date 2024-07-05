@@ -1,0 +1,151 @@
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-family: sans-serif;
+}
+nav {
+  display: flex;
+  justify-content: flex-end;
+  gap: 40px;
+  padding-left: 770px;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+a:hover {
+  color: violet;
+}
+button {
+  width: 200px;
+  height: 50px;
+  font-family: sans-serif;
+  text-align: center;
+  border: solid blueviolet 10px;
+  background-color: blueviolet;
+  border-radius: 50px;
+}
+button h2 {
+  margin-top: 0%;
+}
+.hero {
+  padding-top: 200px;
+  justify-content: center;
+  align-items: center;
+}
+.main {
+  width: 1592px;
+  height: 900px;
+  background-image: url(women-in-creative-agency-planning-on-tablet-compu-2022-12-10-00-16-14-utc-1024x650.jpg);
+  background-size: cover;
+}
+.hero h1 {
+  font-family: sans-serif;
+  font-size: 10vh;
+  color: rgb(19, 146, 163);
+}
+h6 {
+  font-size: larger;
+}
+.p {
+  width: 50%;
+  color: aliceblue;
+  text-align: justify;
+}
+/* page 2 */
+.main2 {
+  width: 1592px;
+  height: 900px;
+  background-image: url(page\ 2\ bg.jpg);
+  background-size: cover;
+}
+.page2 {
+  width: 1592px;
+  height: 1600px;
+  display: block;
+  margin-bottom: 0px;
+}
+.pc2,
+.pc3 {
+  width: 1592px;
+  height: 600px;
+  background-color: white;
+  padding-top: 0%;
+  top: 0;
+  display: flex;
+}
+.the {
+  width: 400px;
+  height: 400px;
+  background-color:white;
+  padding: 70px;
+  margin-left: 70px;
+}
+.the h1 {
+  font-family: sans-serif;
+}
+.the span {
+  color: rgb(197, 183, 183);
+  
+}
+.the h3{
+  color: grey;
+  font-family: sans-serif;
+  font-style: italic;
+}
+.the p{
+  text-align: justify;
+  margin-top: 40px;
+}
+.the button{
+  border: solid rgba(218, 218, 205, 0.856);
+  border-radius: 0px;
+  color: rgb(161, 161, 143);
+  background-color:white;
+}
+.you{
+  width: 400px;
+  height: 300px;
+  background-color:white;
+  padding: 70px;
+  padding-top: 230px;
+  margin-left: 170px;
+}
+.io{
+  display: block;
+  align-content:space-evenly 
+  }
+
+  
+.aa{
+  display: flex;
+  color: rgb(37, 37, 209);
+}
+.aa a:hover{
+  color: blue;
+}
+
+.io-two{
+  margin-left: 100px;
+  color:rgb(37, 37, 209); ;
+}
+.pc3{
+  background-image: url(PAGE2DOWN.webp);
+  background-size: cover;
+  background-color: rgb(242, 245, 248);
+  
+}
+.pc3 h3{
+  font-family: sans-serif;
+  color: rgb(22, 21, 21);
+  }
+  .pc3 h6{
+    font-style: italic;
+    color: black;
+    margin-top: 0%;
+  }
+  .pc3 center{
+
+    margin-left: 500px;
+  }
